@@ -1,0 +1,8 @@
+E:\C sharp programs\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+E:\C sharp programs\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+E:\C sharp programs\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+E:\C sharp programs\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+E:\C sharp programs\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+E:\C sharp programs\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+E:\C sharp programs\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+E:\C sharp programs\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
